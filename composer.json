@@ -1,7 +1,7 @@
 {
   "name": "nazrul/drupal-code-checker",
   "type": "project",
-  "description": "Setups code code checking tools for Drupal project.",
+  "description": "Setups code checking tools for Drupal project.",
   "homepage": "https://github.com/nazrulislambhat/drupal-code-checker",
   "license": "MIT",
   "authors": [
