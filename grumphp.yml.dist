@@ -1,7 +1,7 @@
 grumphp:
   ascii:
-    failed: vendor/nazrul/drupal-quality-checker/resources/ascii/grumpy.txt
-    succeeded: vendor/nazrul/drupal-quality-checker/resources/ascii/happy.txt
+    failed: vendor/nazrul/drupal-code-checker/resources/ascii/grumpy.txt
+    succeeded: vendor/nazrul/drupal-code-checker/resources/ascii/happy.txt
   tasks:
     phplint: ~
     yamllint: ~
