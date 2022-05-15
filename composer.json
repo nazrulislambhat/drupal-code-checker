@@ -1,13 +1,13 @@
 {
-  "name": "vijaycs85/drupal-quality-checker",
+  "name": "nazrul/drupal-quality-checker",
   "type": "project",
   "description": "Setups code quality checking tools for Drupal project.",
-  "homepage": "https://github.com/vijaycs85/drupal-quality-checker",
+  "homepage": "https://github.com/nazrulislambhat/drupal-code-checker",
   "license": "MIT",
   "authors": [
     {
-      "name": "Vijaya Chandran Mani",
-      "homepage": "https://www.drupal.org/u/vijaycs85",
+      "name": "Nazrul Islam",
+      "homepage": "https://www.github.com/nazrulislambhat",
       "role": "Maintainer"
     }
   ],
@@ -20,7 +20,7 @@
     "sebastian/phpcpd": ">=4.0"
   },
   "support": {
-    "issues": "https://github.com/vijaycs85/drupal-quality-checker/issues",
-    "source": "https://github.com/vijaycs85/drupal-quality-checker"
+    "issues": "https://github.com/nazrulislambhat/drupal-code-checker/issues",
+    "source": "https://github.com/nazrulislambhat/drupal-code-checker"
   }
 }
